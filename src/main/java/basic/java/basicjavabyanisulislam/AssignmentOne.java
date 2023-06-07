@@ -1,6 +1,6 @@
 package basic.java.basicjavabyanisulislam;
 
-public class Product {
+public class AssignmentOne {
     public static void main(String[] args) {
         System.out.println("id = 101");
         System.out.println("title = iphone15");

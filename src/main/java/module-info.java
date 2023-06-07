@@ -3,6 +3,6 @@ module com.example.basicjavabyanisulislam {
     requires javafx.fxml;
 
 
-    opens com.example.basicjavabyanisulislam to javafx.fxml;
-    exports com.example.basicjavabyanisulislam;
+    opens basic.java.basicjavabyanisulislam to javafx.fxml;
+    exports basic.java.basicjavabyanisulislam;
 }
