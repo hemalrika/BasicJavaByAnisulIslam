@@ -13,7 +13,7 @@ public class ArrayListDemo {
         /*for(int x: numbers) {
             System.out.println("Value is : "+x);
         }*/
-        Iterator itr = numbers.iterator();
+        Iterator<Integer> itr = numbers.iterator();
 
         while(itr.hasNext()) {
             System.out.println("Number is: "+itr.next());
